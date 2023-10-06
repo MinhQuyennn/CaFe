@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;1,500&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+.HomepageCustomer {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: white;
+}
+
+.HomepageCustomer .TaskbarHomeLogin {
+  width: 100%;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  background: white;
+}
+
+.TaskbarHomeLogin .Home,
+.admin,
+.HomepageCustomer .Shop {
+  position: absolute;
+  font-size: 16px;
+  
+  word-wrap: break-word;
+}
+
+.TaskbarHomeLogin .Home {
+  left: 139px;
+  top: 11px;
+  color: black;
+  font-weight: 400;
+}
+
+.admin {
+  left: 1165px;
+  top: 11px;
+  color: rgba(0, 0, 0, 0.59);
+  font-weight: 700;
+}
+
+.HomepageCustomer .Shop {
+  left: 269px;
+  top: 11px;
+  color: rgba(0, 0, 0, 0.55);
+  font-weight: 400;
+}
+
+.HomepageCustomer .TaskbarHomeLogin .ContactUs {
+  width: 100%;
+  height: 30px;
+  left: 392px;
+  top: 11px;
+  position: absolute;
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 16px;
+  font-weight: 400;
+  word-wrap: break-word;
+  display: inline-flex;
+
+}
+.Icons8Cart901 {
+  width: 21px;
+  height: 21px;
+  left: 508px;
+  top: 9px;
+  position: absolute;
+}
+
+.Icons8Next501 {
+  width: 18px;
+  height: 18px;
+  left: 1350px;
+  top: 12px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.HomepageCustomer .Large1 {
+  width: 100%;
+  height: 522px;
+  left: 0px;
+  top: 40px;
+  position: absolute;
+}
+.Rectangle224 {
+  width: 100%;
+  height: 522px;
+  left: 0px;
+  top: 40px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+}
+.EmbraceTheWorldOfWords {
+  width: 100%;
+  top: 233px;
+  position: absolute;
+  color: white;
+  font-size: 62px;
+  text-align: center;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.slogan {
+  left: 460px;
+  top: 311px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Rectangle225 {
+  width: 100px;
+  height: 50px;
+  left: 715px;
+  top: 369px;
+  position: absolute;
+  background: #994c3a;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  color:white
+}
+
+.Rectangle225:hover{
+  background: #472405;
+}
+
+.HomepageCustomer .ContactUs {
+  left: 731px;
+  top: 384px;
+  position: absolute;
+  color: white;
+  font-size: 16px;
+  
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.HomepageCustomer .Frame1 {
+  width: 100%;
+  height: 109px;
+  left: 0px;
+  top: 562px;
+  position: absolute;
+  background: #685563;
+}
+
+.Footer {
+  width: 100%;
+  height: 276px;
+  left: 0px;
+  top: 526px;
+  position: absolute;
+  background: #495057;
+}
+
+.Footer .UsefulLinks,
+.Footer .AboutUs,
+.Footer .ConnectWithUs {
+  position: absolute;
+  word-wrap: break-word;
+  color:#edcf8e;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.Footer .UsefulLinks {
+  left: 82px;
+  top: 38px;
+}
+
+.Footer .AboutUs {
+  left: 339px;
+  top: 33px;
+}
+
+.Footer .ConnectWithUs {
+  left: 1079px;
+  top: 38px;
+}
+
+.Footer .Aboutus,
+.Footer .ConnectUs,
+.Footer
+  .Note {
+  position: absolute; 
+  word-wrap: break-word;
+  font-size: 16px;
+  color: white;
+}
+
+.Footer .Aboutus {
+  left: 82px;
+  top: 75px;
+}
+
+.Footer .ConnectUs {
+  left: 1098px;
+  top: 75px;
+}
+
+.Footer
+  .Note {
+  left: 339px;
+  top: 75px;
+}
+
+.Footer .Rectangle233 {
+  width: 100%;
+  height: 40px;
+  left: 0px;
+  top: 236px;
+  position: absolute;
+  background: #383e45;
+}
+
+.Footer .CopyrightCompanyName {
+  left: 82px;
+  top: 246px;
+  position: absolute;
+  
+  word-wrap: break-word;
+  font-size: 16px;
+  
+  color: white;
+}
+
+.Footer .Icons8Phone901,
+.Footer .Icons8Mail1001,
+.Footer .Icons8Chat961 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+
+.Footer .Icons8Phone901 {
+  left: 1079px;
+  top: 114px;
+}
+
+.Footer .Icons8Mail1001 {
+  left: 1079px;
+  top: 95px;
+}
+
+.Footer .Icons8Chat961 {
+  left: 1079px;
+  top: 76px;
+}
+
+.contactbutton{
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  color: red;
+}
